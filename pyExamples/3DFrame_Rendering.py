@@ -8,7 +8,7 @@
 ##################################################################
 
 import openseespy.postprocessing.Get_Rendering as opsplt
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 import numpy as np
 

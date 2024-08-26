@@ -33,7 +33,7 @@ Created on Mon Apr 22 17:29:26 2019
 
 # SET UP -----------------------------------------------------------------------------
 
-import openseespy.opensees as op
+import opensees.openseespy as op
 #import the os module
 import os
 op.wipe()

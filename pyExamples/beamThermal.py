@@ -1,4 +1,4 @@
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 import numpy as np
 import matplotlib.pyplot as plt

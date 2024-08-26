@@ -34,7 +34,7 @@ Created on Tue Apr 23 13:13:55 2019
 
 # SET UP ----------------------------------------------------------------------------
 
-import openseespy.opensees as op
+import opensees.openseespy as op
 import os
 import math
 op.wipe()

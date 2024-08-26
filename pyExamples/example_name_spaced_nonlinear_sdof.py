@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from os.path import exists
 
-import openseespy.opensees as op
+import opensees.openseespy as op
 
 
 ### Generating Constants #############

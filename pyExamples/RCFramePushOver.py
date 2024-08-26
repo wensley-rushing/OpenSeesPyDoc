@@ -5,7 +5,7 @@ print("Start RCFramePushover Example")
 #
 # Written: GLF/MHS/fmk
 # Date: January 2001
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 wipe()
 # ----------------------------------------------------

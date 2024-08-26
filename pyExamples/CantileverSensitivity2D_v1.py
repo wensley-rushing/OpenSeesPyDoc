@@ -11,7 +11,7 @@ import time
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 # +===============================================================================+
 # |                              OpenSees Header                                  |

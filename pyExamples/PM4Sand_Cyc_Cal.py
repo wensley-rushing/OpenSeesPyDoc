@@ -20,7 +20,7 @@ Basic Units are m, kN and s unless otherwise specified
 # get_ipython().run_line_magic('reset', '-sf')
 
 from datetime import datetime
-import openseespy.opensees as op
+import opensees.openseespy as op
 import numpy as np
 import matplotlib.pyplot as plt
 plt.rcParams["font.family"] = "Times New Roman"

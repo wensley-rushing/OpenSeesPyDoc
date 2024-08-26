@@ -2,7 +2,7 @@
 # Converted to openseespy by: Anurag Upadhyay, University of Utah.
 # Units: N and m to follow the originally published code.
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 import numpy as np
 import matplotlib.pyplot as plt

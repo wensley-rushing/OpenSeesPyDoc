@@ -1,6 +1,6 @@
 import os
 import os.path
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 # ------------------------------
 # Start of model generation

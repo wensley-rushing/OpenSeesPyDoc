@@ -16,7 +16,7 @@ Created on Mon Apr 22 15:12:06 2019
 # --------------------------------------------------------------------------------------------------
 #	OpenSees (Tcl) code by:	Silvia Mazzoni & Frank McKenna, 2006
 ##########################################################################################################################################################################
-import openseespy.opensees as op
+import opensees.openseespy as op
 #import the os module
 #import os
 import math

@@ -1,4 +1,4 @@
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 def MomentCurvature(secTag, axialLoad, maxK, numIncr=100):
     

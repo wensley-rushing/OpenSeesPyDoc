@@ -1,7 +1,7 @@
 print("=========================================================")
 print("Start cantilever 2D EQ ground motion with gravity example")
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 
 # --------------------------------------------------------------------------------------------------

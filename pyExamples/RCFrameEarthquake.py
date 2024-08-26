@@ -5,7 +5,7 @@ print("Start RCFrameEarthquake Example")
 #
 # Written: Minjie
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 import ReadRecord
 import numpy as np

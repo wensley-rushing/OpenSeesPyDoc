@@ -85,7 +85,7 @@ import os, sys, pathlib, fnmatch
 import shutil as st
 from IPython import get_ipython
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 import pandas as pd
 import numpy as np

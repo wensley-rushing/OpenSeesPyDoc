@@ -408,7 +408,7 @@ def get_tzParam ( phi, b, sigV, pEleLength):
 ###########################################################
 
 
-import openseespy.opensees as op
+import opensees.openseespy as op
 
 op.wipe()
 

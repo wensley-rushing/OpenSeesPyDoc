@@ -1,6 +1,6 @@
 print("==========================")
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 
 print("Starting RCFrameGravity example")
 
