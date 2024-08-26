@@ -1,6 +1,6 @@
 # OpenSeesPy Documentation
 
-[OpenSeesPy](https://github.com/zhuminjie/OpenSeesPy) is
+[OpenSeesPy](https://github.com/stairlab/OpenSees) is
 a [Python 3](https://www.python.org/) interpreter
 of [OpenSees](https://github.com/OpenSees/OpenSees).
 
