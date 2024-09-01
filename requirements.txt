@@ -1,4 +1,4 @@
-openseespy
+opensees
 numpy
 matplotlib
 sphinx
