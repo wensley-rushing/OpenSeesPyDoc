@@ -1,4 +1,6 @@
 opensees
+xsection
+xara
 numpy
 matplotlib
 sphinx
